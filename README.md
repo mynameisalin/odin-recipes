@@ -1,2 +1,2 @@
 # odin-recipes
-This website will showcase a few different recipes atht are availabel through links on the website. This site will be built using only HTML in order to help strengthen my skills as a new web developer.
+This website will showcase a few different recipes that are available through links on the website. This site will be built using only HTML in order to help strengthen my skills as a new web developer.
